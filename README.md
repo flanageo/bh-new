@@ -1,1 +1,9 @@
-# bh-new
+# bh-new  
+ADMIN_PASSWORD:  
+RCLONE_CONF:  
+REMOTE_FOLDER:  
+PORT: aoto  
+
+Aoto UP
+
+
